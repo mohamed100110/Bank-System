@@ -26,10 +26,5 @@ This is a simple bank system without transaction functionality.
 
 ---
 
-## 🧑‍💻 Author
-Mohamed Ahmed
-
----
-
 ## 💻 Language
 C++
